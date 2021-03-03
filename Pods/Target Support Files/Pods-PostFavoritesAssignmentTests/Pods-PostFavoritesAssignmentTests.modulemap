@@ -1,0 +1,6 @@
+framework module Pods_PostFavoritesAssignmentTests {
+  umbrella header "Pods-PostFavoritesAssignmentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
